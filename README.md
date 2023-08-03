@@ -59,4 +59,7 @@ As technologies changes very fast, we endevour to keep this repository updated a
    - https://github.com/amulchapla/AI-Powered-Call-Center-Intelligence 
 
 - **Income Statement Analysis:**
-   - https://github.com/jakeatmsft/AzureOpenAIExamples/blob/main/Examples/FormRecognizer/Balance_sheet_analysis.ipynb 
+   - https://github.com/jakeatmsft/AzureOpenAIExamples/blob/main/Examples/FormRecognizer/Balance_sheet_analysis.ipynb
+   
+
+  updates done
